@@ -29,7 +29,6 @@ O desafio foi criado utilizando React e Typescript.
 ## Requisitos adicionais (opcional)
 
 - Os elementos das tabelas devem ser ordenados em ordem alfabética.
-- Você poderá adicionar uma validação na criação do produto para que a categoria do produto seja a mesma do fornecedor informado.
 
 ## Informações importantes
 
