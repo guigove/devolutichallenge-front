@@ -1,0 +1,21 @@
+.button{
+
+  background: #158467;
+  border-radius: 5px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #DDDDDD;
+}
+.line{
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+.content{
+  margin: 0 40px 0 40px;;
+}
+

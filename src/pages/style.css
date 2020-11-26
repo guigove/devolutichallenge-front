@@ -1,0 +1,58 @@
+.name-page{
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 34px;
+  margin-left: 180px;
+
+  color: #181818;
+}
+
+thead{
+
+  width: 1000px;
+  height: 50px;
+  background: #CAFAED;
+  border-radius: 5px 5px 0px 0px;
+}
+
+td{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  margin-right: 50px;
+  height: 50px;
+  padding-right: 10px;
+  text-align: left;
+}
+
+table{
+  width: 70%;
+  margin:auto;
+
+}
+
+th{
+  padding: 10px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: left;
+
+}
+
+.container-header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.button{
+  margin-right: 160px;
+}
